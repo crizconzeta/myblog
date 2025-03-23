@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /theme/
+Disallow: /static/
+Disallow: /author/
+Disallow: /category/
+Disallow: /tag/
+Disallow: /archives.html
+Disallow: /search/ 
+Allow: /
+
+Sitemap: https://crizconzeta.com/sitemap.xml 
