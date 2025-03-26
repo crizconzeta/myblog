@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>crizconzeta's blog</title><link href="https://crizconzeta.com/" rel="alternate"/><link href="https://crizconzeta.com/feeds/all-es.atom.xml" rel="self"/><id>https://crizconzeta.com/</id><updated>2025-03-25T01:44:56-03:00</updated><entry><title>Recupera tu Privacidad | Por Qué Necesitas Conocer el FOSS Ahora</title><link href="https://crizconzeta.com/2025/03/foos/" rel="alternate"/><published>2025-03-24T22:45:00-03:00</published><updated>2025-03-25T01:44:56-03:00</updated><author><name>crizconzeta</name></author><id>tag:crizconzeta.com,2025-03-24:/2025/03/foos/</id><summary type="html">&lt;h1 id="por-que-deberiamos-preocuparnos-por-el-foss-ahora"&gt;¿Por qué deberíamos preocuparnos por el FOSS ahora?&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>crizconzeta's blog</title><link href="https://crizconzeta.com/" rel="alternate"/><link href="https://crizconzeta.com/feeds/all-es.atom.xml" rel="self"/><id>https://crizconzeta.com/</id><updated>2025-03-26T14:54:26-03:00</updated><entry><title>Recupera tu Privacidad | Por Qué Necesitas Conocer el FOSS Ahora</title><link href="https://crizconzeta.com/2025/03/foos/" rel="alternate"/><published>2025-03-24T22:45:00-03:00</published><updated>2025-03-26T14:54:26-03:00</updated><author><name>crizconzeta</name></author><id>tag:crizconzeta.com,2025-03-24:/2025/03/foos/</id><summary type="html">&lt;h1 id="por-que-deberiamos-preocuparnos-por-el-foss-ahora"&gt;¿Por qué deberíamos preocuparnos por el FOSS ahora?&lt;/h1&gt;
 &lt;p&gt;En caso de que no lo hayas notado, estamos viviendo un momento sociocultural bastante complejo, USA está en declive, y en medio de este declive, está haciendo todo lo posible porque todos nos vayamos al carajo antes que ellos.&lt;/p&gt;
 &lt;p&gt;Oficialmente, desde hace …&lt;/p&gt;</summary><content type="html">&lt;h1 id="por-que-deberiamos-preocuparnos-por-el-foss-ahora"&gt;¿Por qué deberíamos preocuparnos por el FOSS ahora?&lt;/h1&gt;
 &lt;p&gt;En caso de que no lo hayas notado, estamos viviendo un momento sociocultural bastante complejo, USA está en declive, y en medio de este declive, está haciendo todo lo posible porque todos nos vayamos al carajo antes que ellos.&lt;/p&gt;
@@ -54,7 +54,7 @@
 &lt;/ul&gt;
 &lt;h2 id="y-que-tiene-que-ver-todo-esto-con-el-foss"&gt;¿Y qué tiene que ver todo esto con el FOSS?&lt;/h2&gt;
 &lt;p&gt;¿Alguna vez te has detenido a pensar en cuánta información personal entregas en el día por media d etus dispositivos y software? Desde tu navegador, hasta las aplicaciones que utilizas, son parte del software propietario que recopila y, comparte tus datos con terceros. En un mundo cada vez más vigilado, es crucial tomar el control de nuestra privacidad digital, y eso lo podemos hacer con FOSS.&lt;/p&gt;
-&lt;h2 id="ok-me-asustaste-que-es-foss"&gt;OK, me asustaste. ¿Qué es FOSS?&lt;/h2&gt;
+&lt;h2 id="ok-me-convenciste-que-es-foss"&gt;OK, me convenciste. ¿Qué es FOSS?&lt;/h2&gt;
 &lt;p&gt;FOSS (Software Libre y de Código Abierto), por sus siglas en inglés, se refiere a software que respeta cuatro libertades fundamentales:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -71,22 +71,23 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;A diferencia del software propietario, donde el código fuente no es visible y las licencias son restrictivas, FOSS promueve la transparencia y la colaboración, es una comunidad de desarrollo, la que se encarga de velar por lo interés de la comunidad.&lt;/p&gt;
-&lt;p&gt;Algunos podrían pensar que tanta colaboración y comunidad suena a ‘colectivismo’, ¡pero hay buenas razones para unirse al movimiento FOSS&lt;/p&gt;
+&lt;p&gt;Y si, suena un poco a comunismo, pero el futuro va a ser comunitario, asi que debemos prepararnos, además, hay buenas razones para adoptar el FOSS&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Auditoría: El código abierto puede ser examinado por cualquiera, lo que reduce la posibilidad de backdoors o recopilación de datos oculta.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Control: Tú tienes el control total sobre el software y tus datos, no una corporación.&lt;/p&gt;
+&lt;p&gt;Control: Tú tienes el control total sobre el software y tus datos, no una corporación con fines de lucro.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="alternativas-foss"&gt;Alternativas FOSS&lt;/h2&gt;
-&lt;h3 id="navegadores-web"&gt;Navegadores Web&lt;/h3&gt;
-&lt;p&gt;Probablemente, el 90% de lo que haces en un computador es un navegador. Y tu navegador tiene un identificador único, que, sumado a tu IP, tus cookies, y los sitios que visitas, crean un registro digital.&lt;/p&gt;
+&lt;h2 id="como-comenzar-a-recuperar-la-privacidad-por-medio-del-foss"&gt;Como comenzar a recuperar la privacidad por medio del FOSS&lt;/h2&gt;
+&lt;p&gt;El primer paso es comenzar con el software que utilizas en el día a día, es decir, tu navegador.&lt;/p&gt;
+&lt;p&gt;Si, tu navegador te espía y probablemente, el 90% de lo que haces en un computador es trabajar en un navegador. Y tu navegador tiene un identificador único, que, sumado a tu IP, tus cookies, y los sitios que visitas, crean un registro digital que te identifica de manera única.&lt;/p&gt;
+&lt;p&gt;Veamos algunas alternativas para Chrome, Safari y Edge.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;&lt;strong&gt;Navegador Web&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Desktop&lt;/strong&gt;&lt;/th&gt;
 &lt;th&gt;&lt;strong&gt;Alternativa FOSS&lt;/strong&gt;&lt;/th&gt;
 &lt;th&gt;&lt;strong&gt;Descripción y Ventajas&lt;/strong&gt;&lt;/th&gt;
 &lt;th&gt;&lt;strong&gt;Enlaces&lt;/strong&gt;&lt;/th&gt;
@@ -144,8 +145,6 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;¿Quieres recuperar tu privacidad?&lt;/p&gt;
-&lt;p&gt;Comenza seleccionando uno de los navegadores de la lista, y reemplaza tus navegadores corporativos.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Recursos Adicionales:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Electronic Frontier Foundation (EFF):&lt;/strong&gt; &lt;a href="https://www.eff.org/"&gt;https://www.eff.org/&lt;/a&gt; (Organización líder en defensa de los derechos digitales)&lt;/li&gt;
@@ -155,7 +154,7 @@
 &lt;hr/&gt;
 &lt;p&gt;Creditos imagen de portada&lt;/p&gt;
 &lt;p&gt;Photo by &lt;a href="https://unsplash.com/@nasa?utm_content=creditCopyText&amp;amp;utm_medium=referral&amp;amp;utm_source=unsplash"&gt;NASA&lt;/a&gt; on &lt;a href="https://unsplash.com/photos/photo-of-outer-space-Q1p7bh3SHj8?utm_content=creditCopyText&amp;amp;utm_medium=referral&amp;amp;utm_source=unsplash"&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;</content><category term="misc"/><category term="FOSS"/></entry><entry><title>Prueba de Concepto</title><link href="https://crizconzeta.com/2025/03/poc/" rel="alternate"/><published>2025-03-23T00:45:00-03:00</published><updated>2025-03-25T01:44:56-03:00</updated><author><name>crizconzeta</name></author><id>tag:crizconzeta.com,2025-03-23:/2025/03/poc/</id><summary type="html">&lt;p&gt;Hola, soy Cristóbal S.&lt;/p&gt;
+&lt;hr/&gt;</content><category term="misc"/><category term="FOSS"/></entry><entry><title>Prueba de Concepto</title><link href="https://crizconzeta.com/2025/03/poc/" rel="alternate"/><published>2025-03-23T00:45:00-03:00</published><updated>2025-03-26T14:54:26-03:00</updated><author><name>crizconzeta</name></author><id>tag:crizconzeta.com,2025-03-23:/2025/03/poc/</id><summary type="html">&lt;p&gt;Hola, soy Cristóbal S.&lt;/p&gt;
 &lt;p&gt;Hace muchos años, cuando internet se veía muy distinto, tenía un blog, de hecho, tuve muchos blogs, no solo uno.&lt;/p&gt;
 &lt;p&gt;Por distintos motivos fui perdiendo la costumbre de escribir, y eso hizo que mis blogs fueran poco a poco desapareciendo.&lt;/p&gt;
 &lt;p&gt;En la era de la AI …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hola, soy Cristóbal S.&lt;/p&gt;
