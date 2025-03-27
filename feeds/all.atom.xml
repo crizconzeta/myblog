@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>crizconzeta's blog</title><link href="https://crizconzeta.com/" rel="alternate"/><link href="https://crizconzeta.com/feeds/all.atom.xml" rel="self"/><id>https://crizconzeta.com/</id><updated>2025-03-26T14:54:26-03:00</updated><entry><title>Recupera tu Privacidad | Por Qué Necesitas Conocer el FOSS Ahora</title><link href="https://crizconzeta.com/2025/03/foos/" rel="alternate"/><published>2025-03-24T22:45:00-03:00</published><updated>2025-03-26T14:54:26-03:00</updated><author><name>crizconzeta</name></author><id>tag:crizconzeta.com,2025-03-24:/2025/03/foos/</id><summary type="html">&lt;h1 id="por-que-deberiamos-preocuparnos-por-el-foss-ahora"&gt;¿Por qué deberíamos preocuparnos por el FOSS ahora?&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>crizconzeta's blog</title><link href="https://crizconzeta.com/" rel="alternate"/><link href="https://crizconzeta.com/feeds/all.atom.xml" rel="self"/><id>https://crizconzeta.com/</id><updated>2025-03-27T16:31:49-03:00</updated><entry><title>Recupera tu Privacidad | Por Qué Necesitas Conocer el FOSS Ahora</title><link href="https://crizconzeta.com/2025/03/foos/" rel="alternate"/><published>2025-03-24T22:45:00-03:00</published><updated>2025-03-27T16:31:49-03:00</updated><author><name>crizconzeta</name></author><id>tag:crizconzeta.com,2025-03-24:/2025/03/foos/</id><summary type="html">&lt;h1 id="por-que-deberiamos-preocuparnos-por-el-foss-ahora"&gt;¿Por qué deberíamos preocuparnos por el FOSS ahora?&lt;/h1&gt;
 &lt;p&gt;En caso de que no lo hayas notado, estamos viviendo un momento sociocultural bastante complejo, USA está en declive, y en medio de este declive, está haciendo todo lo posible porque todos nos vayamos al carajo antes que ellos.&lt;/p&gt;
 &lt;p&gt;Oficialmente, desde hace …&lt;/p&gt;</summary><content type="html">&lt;h1 id="por-que-deberiamos-preocuparnos-por-el-foss-ahora"&gt;¿Por qué deberíamos preocuparnos por el FOSS ahora?&lt;/h1&gt;
 &lt;p&gt;En caso de que no lo hayas notado, estamos viviendo un momento sociocultural bastante complejo, USA está en declive, y en medio de este declive, está haciendo todo lo posible porque todos nos vayamos al carajo antes que ellos.&lt;/p&gt;
 &lt;p&gt;Oficialmente, desde hace unas semanas, si quieres ingresar a Estados Unidos, pueden revisar tus dispositivos, tus redes sociales y otros datos recopilados, para determinar si eres una amenaza, una amenaza a qué, eso no está tan claro.&lt;/p&gt;
 &lt;p&gt;Puedes leer un resumen en &lt;a href="https://www.infobae.com/estados-unidos/2025/03/07/eeuu-propone-revisar-las-redes-sociales-de-inmigrantes-antes-de-aprobar-solicitudes-de-visa-y-ciudadania/"&gt;InfoBAE&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;También puedes buscar más detalles en (extrañamente) TikTok. Aunque TikTok es una fuente de información, ten en cuenta que también es una plataforma que recopila datos.&lt;/p&gt;
-&lt;p&gt;USA está haciendo esto para brindar mayor seguridad y luchar contra el terrorismos, pero la prgeuntas, es: quienes son los verdaderos terroristas.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Y si, quiźas puedes pensar que no tiene nada que ocultar y, por lo tanto, la privacidad es innecesaria.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;USA está haciendo esto para brindar mayor seguridad y luchar contra el terrorismo, pero la pregunta es: quiénes son los verdaderos terroristas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Y sí, quizás puedes pensar que no tiene nada que ocultar y, por lo tanto, la privacidad es innecesaria.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Si piensas eso, estás ignorando que la privacidad es un derecho fundamental, y una necesidad para todos, independiente de si tienes “algo que ocultar”. Piensa en la privacidad como el seguro de salud, esperamos que no tengas que utilizarlo, pero si lo necesitas, es bueno estar preparado.&lt;/p&gt;
 &lt;p&gt;Además, la privacidad abarca muchas cosas que no son ilegales o necesarias de ocultar, pero que son legítimamente privadas:&lt;/p&gt;
 &lt;ul&gt;
@@ -28,9 +28,6 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Historial de navegación&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Pensamientos y estados de ánimo&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Y finalmente, no podemos pensar que quienes recopilan y analizan nuestros datos siempre actuarán con nuestros mejores intereses en mente.&lt;/p&gt;
@@ -53,7 +50,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="y-que-tiene-que-ver-todo-esto-con-el-foss"&gt;¿Y qué tiene que ver todo esto con el FOSS?&lt;/h2&gt;
-&lt;p&gt;¿Alguna vez te has detenido a pensar en cuánta información personal entregas en el día por media d etus dispositivos y software? Desde tu navegador, hasta las aplicaciones que utilizas, son parte del software propietario que recopila y, comparte tus datos con terceros. En un mundo cada vez más vigilado, es crucial tomar el control de nuestra privacidad digital, y eso lo podemos hacer con FOSS.&lt;/p&gt;
+&lt;p&gt;¿Alguna vez te has detenido a pensar en cuánta información personal entregas en el día por media de tus dispositivos y software? Desde tu navegador, hasta las aplicaciones que utilizas, son parte del software propietario que recopila y, comparte tus datos con terceros. En un mundo cada vez más vigilado, es crucial tomar el control de nuestra privacidad digital, y eso lo podemos hacer con FOSS.&lt;/p&gt;
 &lt;h2 id="ok-me-convenciste-que-es-foss"&gt;OK, me convenciste. ¿Qué es FOSS?&lt;/h2&gt;
 &lt;p&gt;FOSS (Software Libre y de Código Abierto), por sus siglas en inglés, se refiere a software que respeta cuatro libertades fundamentales:&lt;/p&gt;
 &lt;ul&gt;
@@ -71,7 +68,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;A diferencia del software propietario, donde el código fuente no es visible y las licencias son restrictivas, FOSS promueve la transparencia y la colaboración, es una comunidad de desarrollo, la que se encarga de velar por lo interés de la comunidad.&lt;/p&gt;
-&lt;p&gt;Y si, suena un poco a comunismo, pero el futuro va a ser comunitario, asi que debemos prepararnos, además, hay buenas razones para adoptar el FOSS&lt;/p&gt;
+&lt;p&gt;Y si, suena un poco a comunismo, pero el futuro va a ser comunitario, asi que debemos prepararnos. Además, hay buenas razones para adoptar el FOSS&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Auditoría: El código abierto puede ser examinado por cualquiera, lo que reduce la posibilidad de backdoors o recopilación de datos oculta.&lt;/p&gt;
@@ -148,13 +145,12 @@
 &lt;p&gt;&lt;strong&gt;Recursos Adicionales:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Electronic Frontier Foundation (EFF):&lt;/strong&gt; &lt;a href="https://www.eff.org/"&gt;https://www.eff.org/&lt;/a&gt; (Organización líder en defensa de los derechos digitales)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;PrivacyTools.io:&lt;/strong&gt; &lt;a href="https://www.privacytools.io/"&gt;https://www.privacytools.io/&lt;/a&gt; (Excelente recurso con recomendaciones de software y herramientas para la privacidad)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The New Oil&lt;/strong&gt; &lt;a href="https://thenewoil.org/"&gt;https://thenewoil.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PrivacyGuides.org:&lt;/strong&gt; &lt;a href="https://https://www.privacyguides.org/"&gt;https://www.privacyguides.org/&lt;/a&gt; (Excelente recurso con recomendaciones de software y herramientas para la privacidad)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr/&gt;
 &lt;p&gt;Creditos imagen de portada&lt;/p&gt;
 &lt;p&gt;Photo by &lt;a href="https://unsplash.com/@nasa?utm_content=creditCopyText&amp;amp;utm_medium=referral&amp;amp;utm_source=unsplash"&gt;NASA&lt;/a&gt; on &lt;a href="https://unsplash.com/photos/photo-of-outer-space-Q1p7bh3SHj8?utm_content=creditCopyText&amp;amp;utm_medium=referral&amp;amp;utm_source=unsplash"&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;</content><category term="misc"/><category term="FOSS"/></entry><entry><title>Prueba de Concepto</title><link href="https://crizconzeta.com/2025/03/poc/" rel="alternate"/><published>2025-03-23T00:45:00-03:00</published><updated>2025-03-26T14:54:26-03:00</updated><author><name>crizconzeta</name></author><id>tag:crizconzeta.com,2025-03-23:/2025/03/poc/</id><summary type="html">&lt;p&gt;Hola, soy Cristóbal S.&lt;/p&gt;
+&lt;hr/&gt;</content><category term="misc"/><category term="FOSS"/></entry><entry><title>Prueba de Concepto</title><link href="https://crizconzeta.com/2025/03/poc/" rel="alternate"/><published>2025-03-23T00:45:00-03:00</published><updated>2025-03-27T16:31:49-03:00</updated><author><name>crizconzeta</name></author><id>tag:crizconzeta.com,2025-03-23:/2025/03/poc/</id><summary type="html">&lt;p&gt;Hola, soy Cristóbal S.&lt;/p&gt;
 &lt;p&gt;Hace muchos años, cuando internet se veía muy distinto, tenía un blog, de hecho, tuve muchos blogs, no solo uno.&lt;/p&gt;
 &lt;p&gt;Por distintos motivos fui perdiendo la costumbre de escribir, y eso hizo que mis blogs fueran poco a poco desapareciendo.&lt;/p&gt;
 &lt;p&gt;En la era de la AI …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hola, soy Cristóbal S.&lt;/p&gt;
