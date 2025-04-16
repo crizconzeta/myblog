@@ -6,105 +6,126 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://crizconzeta.com/</loc>
-<lastmod>2025-03-30T15:19:50-00:00</lastmod>
+<lastmod>2025-04-16T22:49:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://crizconzeta.com/2025/</loc>
-<lastmod>2025-03-30T15:19:50-00:00</lastmod>
+<lastmod>2025-04-16T22:49:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://crizconzeta.com/2025/03/</loc>
-<lastmod>2025-03-30T15:19:50-00:00</lastmod>
+<lastmod>2025-04-16T22:49:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://crizconzeta.com/2025/03/foos/</loc>
-<lastmod>2025-03-30T15:16:29-03:00</lastmod>
+<lastmod>2025-04-16T22:45:50-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://crizconzeta.com/2025/03/poc/</loc>
-<lastmod>2025-03-30T15:16:29-03:00</lastmod>
+<lastmod>2025-04-16T22:45:50-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://crizconzeta.com/2025/03/yt-1/</loc>
-<lastmod>2025-03-30T15:16:29-03:00</lastmod>
+<lastmod>2025-04-16T22:45:50-04:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://crizconzeta.com/2025/04/</loc>
+<lastmod>2025-04-16T22:49:50-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://crizconzeta.com/2025/04/sesgos-ai/</loc>
+<lastmod>2025-04-16T22:45:50-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://crizconzeta.com/archive/</loc>
-<lastmod>2025-03-30T15:19:50-00:00</lastmod>
+<lastmod>2025-04-16T22:49:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://crizconzeta.com/author/</loc>
-<lastmod>2025-03-30T15:19:50-00:00</lastmod>
+<lastmod>2025-04-16T22:49:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://crizconzeta.com/author/crizconzeta/</loc>
-<lastmod>2025-03-30T15:19:50-00:00</lastmod>
+<lastmod>2025-04-16T22:49:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://crizconzeta.com/category/</loc>
-<lastmod>2025-03-30T15:19:50-00:00</lastmod>
+<lastmod>2025-04-16T22:49:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://crizconzeta.com/category/misc/</loc>
-<lastmod>2025-03-30T15:19:50-00:00</lastmod>
+<lastmod>2025-04-16T22:49:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://crizconzeta.com/tag/</loc>
-<lastmod>2025-03-30T15:19:50-00:00</lastmod>
+<lastmod>2025-04-16T22:49:50-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://crizconzeta.com/tag/ai/</loc>
+<lastmod>2025-04-16T22:49:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://crizconzeta.com/tag/foss/</loc>
-<lastmod>2025-03-30T15:19:50-00:00</lastmod>
+<lastmod>2025-04-16T22:49:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://crizconzeta.com/tag/general/</loc>
-<lastmod>2025-03-30T15:19:50-00:00</lastmod>
+<lastmod>2025-04-16T22:49:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://crizconzeta.com/tag/redes-sociales/</loc>
-<lastmod>2025-03-30T15:19:50-00:00</lastmod>
+<lastmod>2025-04-16T22:49:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
